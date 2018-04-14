@@ -1,0 +1,4 @@
+Assignment #2 :-
+use an array of numbers fill it with random numbers then sort it using :
+1- Selection Sort.
+2- heap sort.

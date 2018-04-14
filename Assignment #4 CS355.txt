@@ -1,0 +1,5 @@
+Assignment #4 :-
+
+1- write a java program to merge two sorted arrays .
+
+2- write a java program to Fill an array with random numbers.

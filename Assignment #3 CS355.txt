@@ -1,0 +1,12 @@
+Assignment #3 :-
+
+1- write a java program that neads integers and returns its hexadecimal equivalent
+		31 => (1F)h
+
+2- write a java program that compates the 500 prime numbers >10,000000
+
+
+1. Write a java program to read integer numbers and return thier hexadecimal equivqlents- 
+    due on 21/10/2017
+
+2. Write a java program to display 100 prime numbers that  are  larger than 10,000,000 using big integers class- due on 28/10/2017

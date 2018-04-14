@@ -1,0 +1,7 @@
+Assignment #1 :-
+
+1- write a java program that neads integers and returns its Binary equivalent
+		16 => (10000)b
+
+2- write a java program to simulation Simple Calculator
+	( +, -, /, * )
